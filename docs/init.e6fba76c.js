@@ -367,4 +367,4 @@ module.exports=[{term:"A-spectral-class",definition:"Hot white stars (7,500 -10,
 },{}],"FyzG":[function(require,module,exports) {
 var e=require("glossary-panel"),r=require("./terms");new e(r);
 },{"glossary-panel":"g1e3","./terms":"VUHW"}]},{},["FyzG"], null)
-//# sourceMappingURL=/init.e6fba76c.js.map
+//# sourceMappingURL=init.e6fba76c.js.map
