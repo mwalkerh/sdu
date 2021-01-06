@@ -2,7 +2,7 @@
     "name": "sdu",
     "scripts": {
         "dev": "parcel index.html",
-        "build": "parcel build index.html"
+        "build": "parcel build -d docs index.html"
       },
     "devDependencies": {
         "glossary-panel": "^1.0.0",
