@@ -1,6 +1,10 @@
-'use strict';
+var Glossary = require('glossary-panel');
 
-var Glossary = require('../src/glossary');
-var terms = require('./terms.json');
+// JSON file of terms and definitions
+var terms = require('./terms');
 
-new Glossary(terms);
+// Optional configuration objects
+var selectors = { ... };
+var classes = { ... };
+
+new Glossary(terms, selectors, classes);
