@@ -1,0 +1,7 @@
+{
+    "name": "sdu",
+    "devDependencies": {
+        "glossary-panel": "^1.0.0",
+        "parcel-bundler": "^1.12.4"
+    }
+}

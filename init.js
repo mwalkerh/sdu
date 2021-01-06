@@ -4,7 +4,7 @@ var Glossary = require('glossary-panel');
 var terms = require('./terms');
 
 // Optional configuration objects
-var selectors = { ... };
-var classes = { ... };
+//var selectors = { ... };
+//var classes = { ... };
 
-new Glossary(terms, selectors, classes);
+new Glossary(terms);
