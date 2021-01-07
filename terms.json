@@ -4,6 +4,182 @@
     "definition": "Hot white stars (7,500 -10,000 K effective temperature). They show strong H lines and ionised metal lines in their spectra. Examples include Sirius A (A1 V), the brightest star in the night sky and Deneb (A2 Ia), a supergiant."
   },
   {
+    "term": "apparent magnitude",
+    "definition": "A measure of a star’s (or other celestial object’s) brightness as measured from Earth. Originally developed as a six-point scale by Hipparchus, now extended and open ended. Sirius, the brightest star in the night star has an apparent magnitude of – 1.47 whilst the faintest detectable by the naked eye is magnitude 6."
+  },
+  {
+    "term": "astrometric binary",
+    "definition": "A binary system in which the fainter member of the system is detected due to its gravitational effect on the proper motion of its brighter companion. The first one detected was Sirius B, now known to be the white dwarf companion to Sirius A."
+  },
+  {
+    "term": "black hole",
+    "definition": "A highly condensed region of matter, with a gravitational attraction so strong that anything that comes too close to it – even light – cannot escape. Black holes can’t be seen, but can be detected through the gravitational effects they exert on other objects. Some black holes are the end product for massive stars as they evolve. Many galaxies have supermassive black holes at their centre."
+  },
+  {
+    "term": "binary system",
+    "definition": "Two stars that revolve around a common centre of mass. Most star systems are binary. Binary systems are important because they allow astronomers to determine the masses of stars."
+  },
+  {
+    "term": "Chandrasekhar limit",
+    "definition": "The theoretical upper limit at which a stellar remnant can form a white dwarf. Beyond this value (~1.4 solar masses) the electron degeneracy pressure is unable to withstand gravitational collapse and the electrons are forced into the nucleus where they combine with protons to form a dense sea of neutrons. The remnant star is then a neutron star."
+  },
+  {
+    "term": "continuum",
+    "definition": "The continuous spectrum that any object would produce if no absorption or emission lines were present. Any body above absolute zero emits a spectrum, the shape of which is dependant on its temperature. thepeak of a continuous spectrum can be used to determine the effective temperature of a blackbody-like object such as a star."
+  },
+  {
+    "term": "dark nebula",
+    "definition": "A cool cloud of dust and gas. Due to its low temperature it does not emit light in visible region of spectrum so appears dark, often blocking out light from stars that are behind it. Best example is the Coal sack nebula in Crux."
+  },
+  {
+    "term": "distance modulus",
+    "definition": "Defined as m – M. A negative distance modulus means that the object is closer than 10 parsecs to us whilst a positive value means that it is further away than 10 parsecs."
+  },
+  {
+    "term": "eclipsing binary",
+    "definition": "A binary system that is detected by the periodic eclipsing of each component star by the other. The resultant light curve shows primary eclipses when the dimmer star passes in front of the brighter star and a scondary eclipse or minimum when the brighter star eclipses the dimmer star. The component stars in an eclipsing binary are generally close to each other."
+  },
+  {
+    "term": "emission spectra",
+    "definition": "Also called bright-line spectra, these are produced by electrons de-exciting and jumping back down to lower-energy orbits, emitting photons of specific frequencies. These so-called emission lines appear as bright lines on a dark background in photographic recordings or narrow peaks on an intensity plot. Emission lines are produced by many astrophysical processes such as those found in emission nebulae (including planetary nebulae and HII regions), quasars and the some stars such as Wolf-Rayets."
+  },
+  {
+    "term": "F spectral class",
+    "definition": "Stars with a 6,00 - 7,500 K effective temperature and a white-yellow colour. Spectral characteristics are weak Ca+ lines and medium H Balmer features. Examples include Procyon (F5 IV), the supergiant Canopus (F0 Ib) and the main sequence star π3 Orionis."
+  },
+  {
+    "term": "galactic cluster",
+    "definition": "Another term for open cluster as they are typically located in the arms of spiral galaxies where there is abundant dust and gas essential for star formation."
+  },  
+  {
+    "term": "globular cluster",
+    "definition": "Gravitationally-bound spherical clusters of densely-packed stars, normal found in the halo of galaxies. Globular clusters contain thousands of stars, maybe up to a million. Globular clusters contain old, highly-evolved Population II stars that have low metallicities. A prominent southern hemisphere example is 47 Tucane."
+  },
+  {
+    "term": "helium flash",
+    "definition": "The sudden onset of helium core fusion or burning in post-main sequence stars is called the helium flash. It occurs in stars with mass less than about 2-3 solar masses once post-main sequence hydrogen shell burning has dumped sufficient helium nuclei into the core, heating it up to about 100 million K. Once the temperature is hot enough for helium fusion in one part of the core, the reaction quickly spreads throughout it due to the behaviour of the electron degenerate gas, the whole process taking minutes or hours."
+  },
+  {
+    "term": "hydrogen burning",
+    "definition": "The fusion of hydrogen (protons) to helium in the core or shells of stars. Main sequence stars fuse hydrogen through the proton-proton chain or the CNO cycle. It is a nuclear reaction and not 'burning' or combustion with oxygen. a chemical reaction."
+  },
+  {
+    "term": "Instability strip",
+    "definition": "A region on the HR Diagram occupied by pulsating variable stars such as Cepheids."
+  },
+  {
+    "term": "interferometry",
+    "definition": "Technique where light is collected by two or more separated collectors such as radio antennas or telescope mirrors and then correlated. It is generally used to improve the resolution of a source."
+  },
+  {
+    "term": "Kepler",
+    "definition": "A German scientist (1571-1630) who used Tycho Brahe's observations of planetary motions to devise three empirical laws now known as Kepler's Laws of Planetary Motion."
+  },
+  {
+    "term": "Kepler’s Laws",
+    "definition": "Kepler proposed three laws of planetary motion based on his analysis of Tycho Brahe's long and detailed observations of the orbits of the planets."
+  },
+  {
+    "term": "line spectra",
+    "definition": "Also called absorption spectra, these arise when photons of specific frequency are absorbed by cooler gas, leaving a darker line on a background continuum region. Most stellar spectra, including that from our Sun, are absorption spectra."
+  },
+  {
+    "term": "luminosity class",
+    "definition": "Stars of the same spectral class may vary widely in luminosity. This difference is indicated by a roman letter after the spectral class; Ia and Ib- bright supergiant and supergiant, II-bright giant, III-giant, IV-subgiant, V-main sequence (dwarfs), VI-subdwarf and VII or wd-white dwarf. The Sun is thus a G2 V star."
+  },
+  {
+    "term": "meteorite",
+    "definition": "These are different. Meteors are small particles, usually smaller than grains of sand, which travel through space: they become visible as ‘shooting stars’ when they enter the Earth's atmosphere and burn up as a result of friction. Meteorites, on the other hand, are large enough to reach the ground without being destroyed. Big ones produce craters."
+  },
+  {
+    "term": "Milky Way",
+    "definition": "The bright band of stars stretching across the night sky. It is actually what we can see of our own Galaxy (we are looking at it from the inside, of course.) Our Galaxy is sometimes called the Milky Way Galaxy. It is a barred spiral galaxy."
+  },
+  {
+    "term": "neutrino",
+    "definition": "A fundamental particle. A neutral lepton, there are three, one each associated with the elesctron, muon and tau particles. The mass of neutrinos is thought to be either extremely small or zero. The interact extremely weakly with normal matter. They are produced in fusion reactions in stellar interiors. The first detection of neutrinos associated with an object from beyond our Sun was from Supernova 1987A."
+  },
+  {
+    "term": "neutron star",
+    "definition": "A giant ball of neutrons (particles found in the nuclei of atoms). Neutron stars are very dense, only ten or twenty kilometres across, but more about 1.4 to 3 × the mass of our Sun. They are formed in supernova explosions."
+  },
+  {
+    "term": "O spectral class",
+    "definition": "O-class stars are very hot with effective temperatures in the range of 28,000 - 50,000 K and thus appear blue. Their spectra are characterised by weak ionised He+ lines and a strong UV continuum. Main sequence O stars are high mass, 20 - 60 & times; the at of the Sun and 9 - 15 × its radius. They are extremely luminous, ranging from 90,000 - 800,000 × the Sun's luminosity but have extremely short main sequence lifespans of only 1 - 10 million years. Examples include Alnitak and Mintaka in Orion."
+  },
+  {
+    "term": "open cluster",
+    "definition": "An open cluster is a group of stars that are thought to have formed from a common cloud of dust and gas. Open clusters are also known as galactic clusters as they are generally located along the disk of spiral galaxies where star formation is more common. Open clusters have a few dozen up to a few thousand stars in a vloume up to 20 parsecs or so wide. They contain Population I stars, young and high in metallicity. Open clisters are not gravitationally bound so cluster members disperse into the general disk population of stars. Examples include the Pleiades, Hyades, both in Taurus and the Jewel Box in Crux."
+  },
+  {
+    "term": "photographic magnitude",
+    "definition": "This is the apparent magnitude of a star as recoreded on a photographic plate. As most photographic emulsions are more sensitive to blue light than red light cooler, redder stars appear less bright when photographed than a blue star. The photographic magnitude these days is ususally replaced by the B magnitude which is the magnitude as recoreded through a B or blue filter."
+  },
+  {
+    "term": "parsec pc",
+    "definition": "The distance in space at which an object would subtend a parallax angle of 1 arc second from Earth. This corresponds to a distance of 3.08 x 1016 m or about 3.26 light years."
+  },
+  {
+    "term": "quasar",
+    "definition": "Extremely distant, incredibly luminous objects. They are now generally accepted to be the exceedingly bright centres of certain galaxies, tiny central cores that put out the power of perhaps a thousand ordinary galaxies. The centre of a quasar is thought to be a supermassive black hole of up to a billion solar masses in a volume no larger than our solar system."
+  },
+  {
+    "term": "quantum",
+    "definition": "The smallest ‘unit’ of energy. A quantum of light is called a photon."
+  },
+  {
+    "term": "reflection nebula",
+    "definition": "This type of nebula is associated with hot, young stars, typically B2 or hotter. Dust in the cloud scatters light from the star so that it appears blueish to an observer. The classic example of a reflection nebula is that surrounding the Pleiades cluster."
+  },
+  {
+    "term": "resolving power",
+    "definition": "The ability of a telescope to distinguish between close, but separate, objects or features."
+  },
+  {
+    "term": "spectroscopic binary",
+    "definition": "A binary system detected by Doppler shifts in its spectral lines is called a spectroscopic binary. Analysis of the spectral line shifts versus time reveals information about the radial velocities of the component stars. In spectroscopic binaries the component stars are often very close and may in fact exchange material due to tidal interactions. Orbital periods range from a few hours to months, with separations of much less than an AU in many cases. The first spectroscopic binary detected was Mizar A."
+  },
+  {
+    "term": "stellar evolution",
+    "definition": "Standard candles are celestial objects with known luminosities. This allows them to be used as distance indicators as their distance can be inferred by comparing their apparemnt and absolute magnitudes. Examples include Type Ia supernovae and Cepheids."
+  },
+  {
+    "term": "trigonometric parallax",
+    "definition": "Nearby celestial objects exhibiti a perioidic shift in position relative to background stars due to the earth's motion around the Sun. By measuring this stellar parallax and applying trigonometry the distance to the nearby star can be determined. This method is used to define the parsec."
+  },
+  {
+    "term": "T Tauri stars",
+    "definition": "T Tauri stars are young, irregular, variable stars. They are protostars of 3 solar masses or less, still collapsing and undergoing mass-loss. This material is ejected into space at speeds up to 500,000 km. The T Tauri phase may last 10 million years during which a mass equal to the Sun is ejected. Spectral analysis shows that these stars rotate rapidly and have high abundances of lithium, an element that is consumed early in a star's life. They are located just to the right of the main sequence on an HR diagram."
+  },
+  {
+    "term": "trigonometric-parallax",
+    "definition": "Nearby celestial objects exhibiti a perioidic shift in position relative to background stars due to the earth's motion around the Sun. By measuring this stellar parallax and applying trigonometry the distance to the nearby star can be determined. This method is used to define the parsec."
+  },
+  {
+    "term": "UV ultraviolet",
+    "definition": "Part of the electromagnetic spectrum between the visible and X-ray regions. Ultraviolet radiation is absorbed in our atmosphere so UV telescopes such as FUSE need to be placed in space."
+  },
+  {
+    "term": "variable-star",
+    "definition": "A variable star is simply one whose brightness (or other physical property such as radius or spectral type) changes over time. Intrinsic variables are those in which the change in brightness is due to some change within the star itself such as in pulsating stars like the Cepheids. Extrinsic variables are      those in which the light output changes due to some process external to the star itself. The most common example of these are the eclipsing binaries."
+  },
+  {
+    "term": "visual-binary",
+    "definition": "A binary system in which component star can be visually resolved through a telescope. Examples include α Cen and β Cru."
+  },
+  {
+    "term": "visual-magnitude",
+    "definition": "The magnitude of an object as measured through a V filter. This approximates the peak response of the human eye thus is often referred to a visual."
+  },
+  {
+    "term": "white-dwarfs",
+    "definition": "White dwarfs (luminosity class wd) are the hot, compact, collapsed remains of stars that have exhausted their core fusion. They are about the size of the Earth but with the mass of the Sun hence are extremely dense. Electron degeneracy pressure prevents further collapse. White dwarfs are very hot but dim due to their small surface area."
+  },
+  {
+    "term": "X-ray",
+    "definition": "X-ray radiation is part of the electromagnetic spectrum between the UV and gamma-ray components. As X-rays are blocked by our atmosphere X-ray astronomy is only possible from space such as with the Chandra telescope. X-ray emissions are associated with high-energy astrophysical events such as accretion onto neutron stars and black holes."
+  },
+  {
     "term": "ZAMS",
     "definition": "This is the position of a zero age star when it arrives on the main sequence. It is used to infer the age of cluster stars."
   }
