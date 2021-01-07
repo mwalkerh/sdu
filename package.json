@@ -1,5 +1,9 @@
 {
     "name": "sdu",
+    "author": "SDU glossary",
+    "contributors": [
+      "Zhani Walker <zhani.walker96@gmail.com>"
+    ],
     "scripts": {
         "dev": "parcel index.html",
         "build": "parcel build -d docs --public-url ./ index.html"
@@ -7,5 +11,7 @@
     "devDependencies": {
         "glossary-panel": "^1.0.0",
         "parcel-bundler": "^1.12.4"
-    }
+
+    },
+    "main": "src/glossary.js"
 }
